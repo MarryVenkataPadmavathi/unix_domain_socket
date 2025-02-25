@@ -4,7 +4,7 @@
 #include <sys/socket.h>
 #include <netinet/in.h>
 #include <unistd.h>
-#define PORT 12345
+#define PORT 3234
 #define BUFFER_SIZE 1024
 int main() {
 int server_fd, client_fd;
